@@ -6,12 +6,12 @@ Equipamentos:
 -Sensores capacitivos</br>
 -Servos </br>
 
-Objetivo: 
--Reconhecer materiais de metais, plastico, papel e vidro.
--Monitoramento da lixeira (lotacao)
--Abertura automatica com sons(a fim de conscientizar as pessoas)
-
-Incentivo:
--Meio ambiente
--Acessibilidade para deficientes visuais
--Troca de pontos em algum lugar
+Objetivo: </br>
+-Reconhecer materiais de metais, plastico, papel e vidro. </br>
+-Monitoramento da lixeira (lotacao) </br>
+-Abertura automatica com sons(a fim de conscientizar as pessoas) </br>
+ 
+Incentivo: </br>
+-Meio ambiente </br>
+-Acessibilidade para deficientes visuais </br>
+-Troca de pontos em algum lugar </br>
