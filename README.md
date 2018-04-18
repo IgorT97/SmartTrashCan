@@ -1,4 +1,4 @@
-# SmartTrashUFPA - PROJETO 3 - SMART TRASH 
+# SmartTrashUFPA - PROJETO 3/Engenharia de software
 
 Equipamentos:</br>
 -Arduino </br>
