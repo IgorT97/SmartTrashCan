@@ -1,10 +1,10 @@
 # SmartTrashUFPA - PROJETO 3 - SMART TRASH 
 
 Equipamentos:
--Arduino
--Sensor indutivo 
--Sensores capacitivos
--Servos 
+-Arduino;
+-Sensor indutivo ;
+-Sensores capacitivos;
+-Servos ;
 
 Objetivo: 
 -Reconhecer materiais de metais, plastico, papel e vidro.
