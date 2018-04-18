@@ -1,6 +1,6 @@
 # SmartTrashUFPA - PROJETO 3 - SMART TRASH 
 
-Equipamentos:
+Equipamentos:</br>
 -Arduino </br>
 -Sensor indutivo </br>
 -Sensores capacitivos</br>
