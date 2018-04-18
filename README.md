@@ -2,9 +2,9 @@
 
 Equipamentos:
 -Arduino </br>
--Sensor indutivo 
--Sensores capacitivos
--Servos 
+-Sensor indutivo </br>
+-Sensores capacitivos</br>
+-Servos </br>
 
 Objetivo: 
 -Reconhecer materiais de metais, plastico, papel e vidro.
